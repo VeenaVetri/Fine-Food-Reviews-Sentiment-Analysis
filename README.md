@@ -3,3 +3,4 @@ The Amazon Fine Food Reviews Sentiment Analysis project focuses on analyzing and
 
 ## Dataset
 The dataset utilized for this project consists of a vast collection of Amazon Fine Food Reviews, containing textual reviews along with corresponding ratings. Each review is accompanied by metadata such as the user's ID, the product ID, profile name , the helpfulness , the score , the summary, and the text. This dataset serves as the foundation for training and evaluating sentiment analysis models.
+https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
